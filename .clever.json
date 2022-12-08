@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_e2b5cad6-487c-4890-9175-a448b436a226",
+      "org_id": "orga_3b96ecd0-0d50-4a45-a503-d74c93cc7c67",
+      "deploy_url": "https://github.com/smenzer/clever-wordpress.git",
+      "name": "clever-wordpress-test",
+      "alias": "clever-wordpress-test"
+    }
+  ]
+}
